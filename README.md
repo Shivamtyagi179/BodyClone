@@ -15,14 +15,21 @@ This project demonstrates the power of computer vision in understanding and mimi
 
 ✨ Features
 🎥 Real-time webcam input
+
 🕺 Motion detection & tracking
-🔁 Action mirroring (clone effect)
+
+🔁 Action mirroring (clone effect
+
 ⚡ Low-latency performance
+
 🧩 Simple and modular code structure
+
+
 🛠️ Tech Stack
 Language: Python 🐍
 Library: OpenCV
-(Optional Upgrade): MediaPipe (for advanced pose detection)
+MediaPipe 
+
 
 📂 Project Structure
 Body-Clone/
