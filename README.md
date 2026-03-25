@@ -3,7 +3,7 @@
 A real-time computer vision system that mirrors human actions using a webcam, creating a "body clone" effect.
 
 📸 Demo
-<img width="706" height="691" alt="image" src="https://github.com/user-attachments/assets/046a3649-6c1f-44ff-a1eb-c9536ac5712b" />
+<img width="70" height="69" alt="image" src="https://github.com/user-attachments/assets/046a3649-6c1f-44ff-a1eb-c9536ac5712b" />
 
 
 🚀 Overview
@@ -32,6 +32,7 @@ MediaPipe
 
 
 📂 Project Structure
+
 Body-Clone/
 │── main.py
 │── utils/
@@ -60,17 +61,28 @@ Perform movements in front of the camera
 Watch the system replicate your actions in real-time
 
 📌 Use Cases
-🎮 Gesture-based gaming
-🧑‍💻 Virtual avatars & animation
-🤖 AI & computer vision learning
-🕶️ AR/VR interaction systems
-🔮 Future Enhancements
-✅ Integrate MediaPipe Pose Detection
-✅ Add multi-person tracking
-✅ Improve accuracy with AI models
-✅ Export motion data for animation tools
-🤝 Contributing
 
+🎮 Gesture-based gaming
+
+🧑‍💻 Virtual avatars & animation
+
+🤖 AI & computer vision learning
+
+🕶️ AR/VR interaction systems
+
+
+🔮 Future Enhancements
+
+✅ Integrate MediaPipe Pose Detection
+
+✅ Add multi-person tracking
+
+✅ Improve accuracy with AI models
+
+✅ Export motion data for animation tools
+
+
+🤝 Contributing
 Contributions are welcome!
 Feel free to fork this repo and submit a pull request.
 
