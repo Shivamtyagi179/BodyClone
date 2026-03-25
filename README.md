@@ -3,7 +3,9 @@
 A real-time computer vision system that mirrors human actions using a webcam, creating a "body clone" effect.
 
 📸 Demo
-<img width="70" height="69" alt="image" src="https://github.com/user-attachments/assets/046a3649-6c1f-44ff-a1eb-c9536ac5712b" />
+<img width="200" height="191" alt="image" src="https://github.com/user-attachments/assets/046a3649-6c1f-44ff-a1eb-c9536ac5712b" />
+
+
 
 
 🚀 Overview
@@ -13,7 +15,10 @@ It captures human body movements via a webcam and replicates them instantly, cre
 
 This project demonstrates the power of computer vision in understanding and mimicking human actions.
 
+
+
 ✨ Features
+
 🎥 Real-time webcam input
 
 🕺 Motion detection & tracking
@@ -25,40 +30,70 @@ This project demonstrates the power of computer vision in understanding and mimi
 🧩 Simple and modular code structure
 
 
+
+
 🛠️ Tech Stack
+
 Language: Python 🐍
+
 Library: OpenCV
+
 MediaPipe 
+
+
 
 
 📂 Project Structure
 
+
 Body-Clone/
+
 │── main.py
+
 │── utils/
+
 │   └── tracking.py
+
 │── assets/
+
 │   └── demo.png
+
 │── README.md
+
 │── requirements.txt
+
 
 
 ⚙️ Installation
 
 # Clone the repository
+
 git clone https://github.com/shivam179/body-clone.git
 
+
+
 # Navigate to project folder
+
 cd body-clone
 
+
+
 # Install dependencies
+
 pip install -r requirements.txt
 
+
 ▶️ Usage
+
 python main.py
+
 Allow camera access 🎥
+
 Perform movements in front of the camera
+
 Watch the system replicate your actions in real-time
+
+
 
 📌 Use Cases
 
@@ -69,6 +104,8 @@ Watch the system replicate your actions in real-time
 🤖 AI & computer vision learning
 
 🕶️ AR/VR interaction systems
+
+
 
 
 🔮 Future Enhancements
@@ -82,9 +119,13 @@ Watch the system replicate your actions in real-time
 ✅ Export motion data for animation tools
 
 
+
+
 🤝 Contributing
+
 Contributions are welcome!
 Feel free to fork this repo and submit a pull request.
+
 
 📜 License
 
